@@ -28,4 +28,5 @@ Your wallet will **automatically recognize** the new Tron Mainnet, and TRX will 
 Once the migration is complete, you will have new TRX tokens in your wallet. These tokens can be sold on any exchange that lists Tron, as all exchanges now support the new Tron Mainnet.
 
 Congratulations, you have successfully performed the migration.
+
 ![kraj_clanka](https://github.com/user-attachments/assets/3a2a916d-b642-4f03-aea2-885942309a9b)
